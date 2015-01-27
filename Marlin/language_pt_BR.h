@@ -1,5 +1,5 @@
 /**
- * Portuguese
+ * Portuguese of Brasil
  *
  * LCD Menu Messages
  * Please note these are limited to 17 characters!
